@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c5f285b-1b0e-4c12-a0b8-65eae6309590" name="Local-dev" url="http://kalkulator-allegro.10.1.1.10.xip.io:8888">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="88e9ea21-6f6f-48e2-80b2-39bbf9ef3892" name="Pegas ERP MAMP Secure 8890" url="https://pegas-erp.10.1.1.18.xip.io:8890/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
