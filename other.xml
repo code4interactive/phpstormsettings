@@ -51,6 +51,28 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="58504210b672ad4543ebb8a2" name="AB Foto" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="585042257152f911b39e46ca" name="Backlog" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="579cee85be88e52d7c1837ac" name="arturbartczak" />
+      </option>
+      <password>dfccdf98dfcfdfc9dfcfdf9ddfcfdfc8df9ddfc8df9ddf92df9edfccdf9adfc8df93dfcbdfcfdf93dfcbdfcedf9bdf9edf9cdf98df9fdfcfdf9fdf93df92dfccdf93dfccdf9cdf9edfc8dfc8df9fdf98df9ddfc9df9bdfcedf9bdfc8dfccdfc9df9fdf98df9adf92df9cdf98dfcbdf98df9cdf98df93dfc9df9cdfc9df99df9f</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
     <Generic shared="false" url="https://app.asana.com/api/1.0">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <option name="downloadTasksInSeparateRequests" value="true" />
@@ -58,6 +80,8 @@
       <option name="loginAnonymously" value="false" />
       <option name="loginMethodType" value="GET" />
       <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="responseHandlers">
         <XPathResponseHandler>
           <selectors>
@@ -125,6 +149,8 @@
       <password>df85df95dfcddf93dfc1dfd3dfe0df92df99dfcedfd2dfccdfcbdf94dfd2</password>
       <option name="jiraVersion" value="6.4-OD-15-055" />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
@@ -133,13 +159,11 @@
     </JIRA>
     <YouTrack shared="false" url="http://arturs-imac.local:8080">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <customStates>
-        <entry state="IN_PROGRESS" name="In Progress" />
-        <entry state="RESOLVED" name="Fixed" />
-      </customStates>
       <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
       <password>dfc9df9edfc9dfc2dfd8dfc5dfc4dfc9dfc2dfc5dfc6</password>
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
