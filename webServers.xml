@@ -7,6 +7,14 @@
       <webServer id="88e9ea21-6f6f-48e2-80b2-39bbf9ef3892" name="Pegas ERP MAMP Secure 8890" url="https://pegas-erp.10.1.1.18.xip.io:8890/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="1e6c1a10-bcc1-4ee8-92c2-30957af1d839" name="YR VIPSERV" url="http://yr.vipserv.org">
+        <fileTransfer host="yr.vipserv.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
