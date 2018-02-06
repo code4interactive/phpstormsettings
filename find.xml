@@ -5,34 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.yaml</mask>
-      <mask>*.sass</mask>
-      <mask>*.scc</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*.html</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.c</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
