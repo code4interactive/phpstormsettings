@@ -9,7 +9,7 @@
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php5.6.2/bin/php" id="881b59a1-aeaa-4c22-a1d5-c0a0a5081675" name="PHP 5.6.2 - MAMP" debugger_id="php.debugger.XDebug" />
       <interpreter home="/Applications/MAMP/bin/php/php7.0.12/bin/php" id="cada44ec-519d-450a-9cd0-289abb322129" name="PHP 7.0.12 - MAMP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/Applications/MAMP/bin/php/php7.1.0/bin/php" id="10064d9d-6dde-4a0b-b6f9-6057e081e4ad" name="PHP 7.1.0 - MAMP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.1.12/bin/php" id="10064d9d-6dde-4a0b-b6f9-6057e081e4ad" name="PHP 7.1.0 - MAMP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -576,9 +576,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1.0 - MAMP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.0/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.0/bin/php" path_separator=":" remote_host="127.0.0.1" version="7.1.0">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.12/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.12/bin/php" path_separator=":" version="7.1.12">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.1.0/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.1.12/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -628,7 +628,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.0/lib/php/extensions/no-debug-non-zts-20160303/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.12/lib/php/extensions/no-debug-non-zts-20160303/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -648,7 +648,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.0/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.12/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -721,7 +721,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="32M" />
             <configuration_option name="precision" value="12" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -843,6 +843,7 @@
             <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
