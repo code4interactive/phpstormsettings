@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="artur.bartczak@proexe.pl">
+      <option name="address" value="registry.gitlab.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="abartczak" />
+    </DockerRegistry>
+  </component>
+</application>
