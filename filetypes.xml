@@ -12,19 +12,20 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ClientReservation" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="gifsicle" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".requirment" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
