@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T20:27:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-19T22:23:32</property>
+    <property name="modified">2019-09-19T22:50:28</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
@@ -2147,7 +2147,7 @@
       <value>
         <option name="BACKGROUND" value="353535" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
+        <option name="EFFECT_COLOR" value="c1b7a1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2168,7 +2168,9 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="474747" />
+        <option name="FOREGROUND" value="cadbe9" />
+        <option name="EFFECT_COLOR" value="47ce9" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
