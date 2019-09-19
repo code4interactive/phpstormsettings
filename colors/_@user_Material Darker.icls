@@ -4,11 +4,11 @@
     <property name="created">2019-09-19T20:27:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-19T20:41:56</property>
+    <property name="modified">2019-09-19T20:46:40</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="PowerlineSymbols" />
