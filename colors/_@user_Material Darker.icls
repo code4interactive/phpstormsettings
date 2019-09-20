@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T20:27:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-19T23:57:09</property>
+    <property name="modified">2019-09-20T11:24:46</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
@@ -2172,7 +2172,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cadbe9" />
+        <option name="FOREGROUND" value="757f88" />
         <option name="EFFECT_COLOR" value="47ce9" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
