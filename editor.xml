@@ -1,4 +1,10 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="PowerlineSymbols" />
     <option name="LINE_SPACING" value="2.0" />
