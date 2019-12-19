@@ -5,6 +5,7 @@
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ClientReservation" type="PLAIN_TEXT" />
+      <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="gifsicle" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
