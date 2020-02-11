@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="apple-app-site-association" type="JSON" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ClientReservation" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
