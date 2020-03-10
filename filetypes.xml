@@ -10,6 +10,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="gifsicle" type="PLAIN_TEXT" />
       <mapping pattern="cloud-init" type="PLAIN_TEXT" />
+      <mapping pattern="cronjobs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".requirment" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
