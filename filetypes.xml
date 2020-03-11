@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="Dockerfile-base" type="Dockerfile" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
