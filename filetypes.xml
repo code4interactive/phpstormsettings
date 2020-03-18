@@ -16,6 +16,7 @@
       <mapping pattern="cronjobs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".requirment" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
