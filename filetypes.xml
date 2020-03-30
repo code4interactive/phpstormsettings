@@ -22,6 +22,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="obox.bo.proexe.co" type="PLAIN_TEXT" />
       <mapping ext="json-old" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
