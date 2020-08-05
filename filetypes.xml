@@ -10,13 +10,13 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ClientReservation" type="PLAIN_TEXT" />
-      <mapping pattern=".env-develop" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="batchDeamon" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="gifsicle" type="PLAIN_TEXT" />
       <mapping pattern="cloud-init" type="PLAIN_TEXT" />
       <mapping pattern="cronjobs" type="PLAIN_TEXT" />
+      <mapping pattern=".env-develop" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".requirment" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
