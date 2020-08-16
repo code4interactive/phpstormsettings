@@ -17,6 +17,7 @@
       <mapping pattern="gifsicle" type="PLAIN_TEXT" />
       <mapping pattern="cloud-init" type="PLAIN_TEXT" />
       <mapping pattern="cronjobs" type="PLAIN_TEXT" />
+      <mapping pattern="AllCustomProperties" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".requirment" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
